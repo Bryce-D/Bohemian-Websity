@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2%;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(232, 12, 206);
+    color: black;
+}
+
+.About-Me header {
+    padding: 20px;
+    background: #13293d;
+    color: #fff;
+}
